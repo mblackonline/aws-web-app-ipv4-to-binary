@@ -2,7 +2,7 @@
 
   
 
-- This is a simple web app that converts an IPv4 address into its binary equivalent.
+- This is a simple web app that converts an IPv4 address from decimal into binary.
 
 - I used/adapted the following resources for the development of this app:
 
