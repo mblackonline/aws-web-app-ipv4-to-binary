@@ -1,6 +1,5 @@
 # import the JSON utility package
 import json
-
 # import the AWS SDK (for Python the package name is boto3)
 import boto3
 # import two packages to help us with dates and date formatting
